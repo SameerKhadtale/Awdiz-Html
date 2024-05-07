@@ -1,0 +1,24 @@
+{
+  "name": "design",
+  "version": "1.0.0",
+  "description": "This is practice for youtube video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "keywords": [
+    "youtube",
+    "practice",
+    "javascript",
+    "tailwind"
+  ],
+  "author": "Sameer",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "vite": "^5.0.12"
+  }
+}
